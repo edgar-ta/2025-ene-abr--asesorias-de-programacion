@@ -1,5 +1,4 @@
-[! ./assets/header.png]
-
+![Logo de la UTSJR](./assets/header.png "Logo de la UTSJR")
 # Asesorías de Programación (Enero - Abril 2025)
 
 En este repositorio se encuentran los proyectos del curso de asesorías de
@@ -85,4 +84,4 @@ escrita.
 Aquí debería ir la descripción del proyecto del laberinto, pero aun no ha sido
 escrita.
 
-[! ./assets/footer.png]
+![Footer de la UTSJR](./assets/footer.png) 
